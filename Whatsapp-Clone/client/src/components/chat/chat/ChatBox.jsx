@@ -14,7 +14,7 @@ const ChatBox = () => {
     const { account } = useContext(AccountContext);
 
     const [conversation, setConversation] = useState({});
-    
+    /////////////////////
     useEffect(() => {
         const getConversationDetails = async () => {
             let data = await getConversation({ sender: account.googleId, receiver: person.googleId });
