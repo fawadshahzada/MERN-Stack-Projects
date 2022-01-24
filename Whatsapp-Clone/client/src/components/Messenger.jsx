@@ -23,7 +23,7 @@ const useStyles = makeStyles({
         boxShadow: 'none'
     }
 })
-///////////////////
+
 const Messenger = () => {
     const classes = useStyles();
     const { account } = useContext(AccountContext);

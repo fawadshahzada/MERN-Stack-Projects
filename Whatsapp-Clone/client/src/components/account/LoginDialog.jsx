@@ -6,7 +6,7 @@ import { GoogleLogin, GoogleLogout } from 'react-google-login';
 
 import { addUser } from '../../service/api';
 import { AccountContext } from '../../context/AccountProvider';
-////////////////////////
+
 const useStyle = makeStyles({
     component: {
         display: 'flex'
@@ -36,7 +36,7 @@ const useStyle = makeStyles({
         }
     }
 })
-///////
+
 const style = {
     dialogPaper: {
         marginTop: '12%',
