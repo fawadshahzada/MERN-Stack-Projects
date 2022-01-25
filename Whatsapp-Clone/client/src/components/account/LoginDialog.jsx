@@ -36,7 +36,7 @@ const useStyle = makeStyles({
         }
     }
 })
-
+///////////////////////////
 const style = {
     dialogPaper: {
         marginTop: '12%',
