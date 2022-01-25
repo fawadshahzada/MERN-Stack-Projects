@@ -23,7 +23,7 @@ const useStyles = makeStyles((theme) => ({
         borderRadius: 18,
         backgroundColor: '#FFFFFF',
         width: 'calc(94% - 100px)'
-    },//////////////////
+    },
     inputRoot: {
         width: '100%'
     },

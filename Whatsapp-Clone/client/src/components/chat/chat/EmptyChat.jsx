@@ -22,7 +22,7 @@ const useStyle = makeStyles(theme => ({
         fontWeight: 300,
         color: '#525252',
         marginTop: 25
-    },/////////////////////
+    },
     subTitle: {
         marginTop: 10,
         fontSize: 14,

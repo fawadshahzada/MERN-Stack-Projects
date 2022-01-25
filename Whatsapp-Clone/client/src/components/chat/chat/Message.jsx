@@ -23,7 +23,7 @@ const useStyles = makeStyles({
         borderRadius: 10,
         wordBreak: 'break-word'
     },
-    text: {/////////////////////
+    text: {
         fontSize: 14,
         padding: '0 25px 0 5px'
     },

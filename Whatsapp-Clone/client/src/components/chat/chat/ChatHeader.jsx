@@ -18,7 +18,7 @@ const useStyles = makeStyles({
         objectFit: 'cover',
         borderRadius: '50%',
         padding: '0 2px'
-    },////////////////
+    },
     name: {
         marginLeft: 10
     },
