@@ -17,7 +17,7 @@ const useStyle = makeStyles(theme => ({
     image: {
         width: 320
     },
-    title: {/////////////////
+    title: {
         fontSize: 36,
         fontWeight: 300,
         color: '#525252',
