@@ -22,7 +22,7 @@ const ChatBox = () => {
         }
         getConversationDetails();
     }, [person.googleId]);
-
+/////////////
     return (
         <Box style={{height: '75%'}}>
             <ChatHeader person={person} />

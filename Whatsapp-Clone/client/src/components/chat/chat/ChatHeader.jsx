@@ -14,7 +14,7 @@ const useStyles = makeStyles({
     },
     displayPicture: {
         width: 37,
-        height: 37,
+        height: 37,//////////////////
         objectFit: 'cover',
         borderRadius: '50%',
         padding: '0 2px'
