@@ -35,14 +35,5 @@ export const products = [
         subHeading: '',
         imageURL: '//tesla-cdn.thron.com/delivery/public/image/tesla/dd739764-bcaa-4263-9488-8c73bc9fb046/bvlatuR/std/2880x2400/Desktop-Accessories',
     },
-    {
-        heading: 'Solar Roof',
-        subHeading: 'Produce Clean Energy From Your Roof',
-        imageURL: 'https://tesla-cdn.thron.com/delivery/public/image/tesla/c877126e-0db5-409d-a412-04fc94b59b76/bvlatuR/std/2880x1800/HP-SR-Design-D',
-    },
-    {
-        heading: 'Accessories',
-        subHeading: '',
-        imageURL: '//tesla-cdn.thron.com/delivery/public/image/tesla/dd739764-bcaa-4263-9488-8c73bc9fb046/bvlatuR/std/2880x2400/Desktop-Accessories',
-    },
+
 ]
